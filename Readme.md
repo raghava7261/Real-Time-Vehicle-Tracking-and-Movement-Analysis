@@ -28,7 +28,7 @@ A comprehensive real-time vehicle tracking and movement analysis system built wi
 - **Live Processing**: Real-time video analysis and visualization
 - **Batch Processing**: Complete video file analysis with progress tracking
 - **Sample Video Generator**: Built-in traffic simulation for testing
-   ![Alt Text]()
+   ![Alt Text](https://github.com/raghava7261/Real-Time-Vehicle-Tracking-and-Movement-Analysis/blob/20a02fe0c46ac45ecff0a6786293d5757e8e7c71/Traffic%20Analysis.png)
 
 ## Installation
 
@@ -244,5 +244,6 @@ For support and questions, please refer to the project documentation or create a
 ---
 
 **Note**: This system is designed for educational and research purposes. For production deployment, additional considerations for scalability, security, and regulatory compliance may be required.
+
 
 
