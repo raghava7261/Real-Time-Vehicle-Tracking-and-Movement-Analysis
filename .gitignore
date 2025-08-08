@@ -1,0 +1,9 @@
+venv/
+video.mp4
+data/sample_video.mp4
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+*.dylib
+*.map
+.DS_Store
