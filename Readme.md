@@ -21,12 +21,14 @@ A comprehensive real-time vehicle tracking and movement analysis system built wi
 - **Interactive Visualizations**: Plotly-based charts and graphs
 - **Performance Metrics**: FPS monitoring and processing statistics
 - **Export Capabilities**: Download analytics reports in JSON format
+  ![Alt Text]()
 
 ### 🎥 Video Processing
 - **Multiple Input Sources**: Support for uploaded videos, webcam, and sample videos
 - **Live Processing**: Real-time video analysis and visualization
 - **Batch Processing**: Complete video file analysis with progress tracking
 - **Sample Video Generator**: Built-in traffic simulation for testing
+   ![Alt Text]()
 
 ## Installation
 
@@ -242,3 +244,4 @@ For support and questions, please refer to the project documentation or create a
 ---
 
 **Note**: This system is designed for educational and research purposes. For production deployment, additional considerations for scalability, security, and regulatory compliance may be required.
+
